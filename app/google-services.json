@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "762876097738",
-    "firebase_url": "https://rutaselalto.firebaseio.com",
-    "project_id": "rutaselalto",
-    "storage_bucket": "rutaselalto.appspot.com"
+    "project_number": "466284692393",
+    "project_id": "traficoapp-6c6e9",
+    "storage_bucket": "traficoapp-6c6e9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:762876097738:android:7bd632553261c688ce7033",
+        "mobilesdk_app_id": "1:466284692393:android:e8268f386e5daa20503ab8",
         "android_client_info": {
           "package_name": "com.example.rutaselalto"
         }
       },
       "oauth_client": [
         {
-          "client_id": "762876097738-c55ifkntsljnc3vhhuju45ev4c4ms6d0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.rutaselalto",
-            "certificate_hash": "175f8317e9d9e41333bb17ba4cea342bc08a81e5"
-          }
-        },
-        {
-          "client_id": "762876097738-54iq3bi3gt3no32me7h49e2hs7j2defq.apps.googleusercontent.com",
+          "client_id": "466284692393-p5n327v85198poab2lrf1p6eibc8m6gb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD5KKpNuGxAiMk5po4AVE7IoM65p8-NeDo"
+          "current_key": "AIzaSyCdRr_IEMFBCupf2gZb6D1x6Bu6Qzga4As"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "762876097738-54iq3bi3gt3no32me7h49e2hs7j2defq.apps.googleusercontent.com",
+              "client_id": "466284692393-p5n327v85198poab2lrf1p6eibc8m6gb.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
